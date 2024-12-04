@@ -1,6 +1,6 @@
 # controle_car
 
-A new Flutter project.
+A new Flutter project for controlling a robot car with a Hc-05 Bluetooth module.
 
 ## Getting Started
 
